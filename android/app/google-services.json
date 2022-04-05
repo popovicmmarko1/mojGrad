@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "787030061086",
+    "firebase_url": "https://mojgrad-990c2.firebaseio.com",
+    "project_id": "mojgrad-990c2",
+    "storage_bucket": "mojgrad-990c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787030061086:android:45c332f991468c47487e0f",
+        "android_client_info": {
+          "package_name": "com.example.moj_grad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787030061086-l9tul1pho7leo7ogfm55sodibbuf69l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2q1rtB4mn18zpAFdYyswtnwDLKDHGUZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787030061086-l9tul1pho7leo7ogfm55sodibbuf69l5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
